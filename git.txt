@@ -1,0 +1,12 @@
+knowing new fats about git history by this page
+link : https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi&ab_channel=CodeWithHarry
+
+
+
+
+
+know new things like :
+1- Local VCS
+2- Centralized VCS
+3- Distributed VCS
+etc
